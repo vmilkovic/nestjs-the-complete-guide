@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@types/google.maps": "^3.46.0",
+    "faker": "^5.5.3"
+  },
+  "devDependencies": {
+    "@types/faker": "^5.5.9",
+    "typescript": "^4.4.4"
+  }
+}
